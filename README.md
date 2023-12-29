@@ -1,5 +1,5 @@
 <h1> ¡Hola! soy Juan Miguel Muñoz 👋 </h1>
-<h3>Soy desarrollador fullstack Javascript y Devops en Colombia</h3>
+<h3>Desarrollador fullstack Javascript y Devops en Colombia</h3>
 <p>Ingeniero de sistemas con experiencia en el sector público y privado en temas relacionados al soporte de equipos de cómputo y redes, gobierno en línea, Devops y programación web.</p>
 
 <h3 align="left">Tecnologiás:</h3>
