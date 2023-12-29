@@ -1,6 +1,6 @@
 <h1> ¡Hola! soy Juan Miguel Muñoz 👋 </h1>
 <h3>Desarrollador fullstack Javascript y Devops en Colombia</h3>
-<p>Te cuento que soy ingeniero de sistemas con experiencia en el sector público y privado en temas relacionados al Infraestructura TI, Gobierno en línea, Devops y Programación Web.</p>
+<p>Te cuento que soy ingeniero de sistemas con experiencia en el sector público y privado en temas relacionados a Infraestructura TI, Gobierno en línea, Devops y Programación Web.</p>
 
 <h3 align="left">Tecnologiás:</h3>
 <p align="left">  
@@ -39,5 +39,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jmmunozpu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmmunozpu/" height="30" width="40" /></a>
 </p>
-
-📫 Puedes contactarme **jmmunozpu@gmail.com**
+<div align="left">
+<P>📫 Puedes contactarme **jmmunozpu@gmail.com**</P>
+</div>
