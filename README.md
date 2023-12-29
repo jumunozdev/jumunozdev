@@ -1,13 +1,8 @@
 <h1> ¡Hola! soy Juan Miguel Muñoz 👋 </h1>
 <h3>Soy desarrollador fullstack Javascript y Devops en Colombia</h3>
 <p>Ingeniero de sistemas con experiencia en el sector público y privado en temas relacionados al soporte de equipos de cómputo y redes, gobierno en línea, Devops y programación web.</p>
-- 📫 Puedes contactarme **jmmunozpu@gmail.com**
-<h3 align="left">Redes sociales:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jmmunozpu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmmunozpu/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Tecnologias:</h3>
+<h3 align="left">Tecnologiás:</h3>
 <p align="left">  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -39,3 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
 </div> 
  </p>
+
+<h3 align="left">Redes sociales:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jmmunozpu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmmunozpu/" height="30" width="40" /></a>
+</p>
+
+📫 Puedes contactarme **jmmunozpu@gmail.com**
